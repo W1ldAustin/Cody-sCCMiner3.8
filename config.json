@@ -1,9 +1,9 @@
 {
 	"pools":[
 	{
-		"name": "na.luckpool.net:3956",
-        "url": "stratum+tcp://na.luckpool.net:3956",
-		"timeout": 150
+	"name": "usw.vipor.net:5040",
+        "url": "stratum+tcp://usw.vipor.net:5040",
+	"timeout": 150
 	},
 	{
 		"name": "verus.farm (Quipacorn)",
@@ -12,7 +12,7 @@
 		"time-limit": 600
 	}],
 	
-	"user": "RMYyubex1Gqiun2WY8CxPkSFN9DxSoxJTk.CAT",
+	"user": "RMYyubex1Gqiun2WY8CxPkSFN9DxSoxJTk.J5-",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
